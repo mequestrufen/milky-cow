@@ -2,7 +2,6 @@
 
 const DIR_STATES = ['N', 'E', 'S', 'O'];
 
-
 var vehiculo = function(x, y, dir){
     this.dir = dir;
     this.posx = x;

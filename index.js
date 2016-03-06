@@ -19,6 +19,11 @@ var input = {
 // invocamos la secuencia de envio de robots:
 Interactor.run(input);
 
+// TODO:
+// Unit tests!
+// edge cases!
+// limites del plano.
+
 
 // veamos:
 // var v = new Vehiculo(1, 1, 'N');
